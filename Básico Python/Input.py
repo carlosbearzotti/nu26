@@ -1,0 +1,5 @@
+nome = str(input('Escrevea seu Nome:  '))
+nota = float(input('Escrevea sua Nota:  '))
+print(f'Sua {nota} - Nota do Aluno')
+print(nome)
+print(nota)
