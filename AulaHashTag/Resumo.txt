@@ -1,0 +1,20 @@
+O que é Ciência de Dados
+    “Ciência de Dados é uma área interdisciplinar que combina estatística, programação, conhecimento de domínio e machine learning para extrair insights e apoiar decisões baseadas em dados.”
+
+1. Processo de Análise e Tomada de Decisão Baseada em Dados
+    Como processar dados de acordo com Ciência de dados
+        1.Passo Entendimento (O que eu busco?)
+        2.Passo Análise dos dados (O que eu tenho / o que eu desejo ter)
+        3.Passo Preparação dos dados (Como utilizarei os dados, qual meu propósito com eles)
+        4.Passo Análise/Modelagem (Escolha de modelos e primeiros resultados dos testes [Escolha do melhor modelo testado])
+            4.1 Análise exploratória (Entendimento das Variáveis)
+            4.2 Pré processamento
+            4.3 Dados Treino / Teste (Maior parcela = treino = forma como aprende x menor parcela = teste = validação do aprendizado)
+            4.4 Escolha de método (IA/ML)
+            4.5 Classificação x Regressão (Perfil x Previsão)
+            4.6 Supervisionado x Não Supervisionado x Reforço (Dados pré existentes e corretos x Dados em Cluster (Agrupamentos) e sem resposta correta x Precisa do lado Humano observando e incentivando o aprendizado. Seja validando ou ajustando )
+            4.7 Escolha de modelo mais eficiente após os testes
+            4.8 Avaliação e Otimização (últimos ajustes sem sacrificar precisão)
+        5.Passo Validação (Resultado final após os testes)
+        6.Passo Preparação / Visualização (comunicar resultados de forma ética, transparente e compreensível, destacando limitações e possíveis vieses dos modelos)
+        7. Passo (situacional) Implantação e Monitoramento — Acompanhar o desempenho em ambiente real
