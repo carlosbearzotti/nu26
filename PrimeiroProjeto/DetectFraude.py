@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 
 # 1. Carregar os dados
-dados = pd.read_csv("transacoes.csv")
+dados = pd.read_csv("E:\DataSet\Transacoes.csv")
 
 # 🔧 Converter colunas categóricas em numéricas
 dados = pd.get_dummies(dados, columns=["localizacao", "tipo_pagamento"])
