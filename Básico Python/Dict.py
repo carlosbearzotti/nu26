@@ -12,8 +12,16 @@ aluno["media"] = sum(aluno["notas"]) / len(aluno["notas"])
 
 print(aluno)
 
-for chave, valor in aluno.items():
+# {'nome': 'João', 'idade': 17, 'notas': [8.0, 9.5, 7.5], 'aprovado': True, 'media': 8.333333333333334}
+
+for chave, valor in aluno.items(): # Fomata a saída
     print(chave, "→", valor)
+
+# nome → João
+# idade → 17
+# notas → [8.0, 9.5, 7.5]
+# aprovado → True
+# media → 8.333333333333334
 
 nomes = ['João', 'Maria', 'José', 'Cláudia', 'Ana']
 

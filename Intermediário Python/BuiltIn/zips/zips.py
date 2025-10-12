@@ -23,3 +23,5 @@ nomes = list(nomes)
 
 print("IDs = ", ids)
 print("Nomes = ", nomes)
+
+# Pode combinar duas ou mais listas, tuplas, strings, etc. Ele junta os dados e transforma em tupla, quando o menor acaba ele encerra.

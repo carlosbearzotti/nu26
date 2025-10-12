@@ -185,4 +185,3 @@ print(f'Votos nulos: {votos_nulos}')
 print(f'Votos em branco: {votos_branco}')
 print(f'Percentual de votos nulos: {(votos_nulos / 20 * 100)}')
 print(f'Percentual de votos em branco: {(votos_branco / 20 * 100)}')
-
