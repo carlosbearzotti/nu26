@@ -11,8 +11,8 @@ O que é Ciência de Dados
             4.2 Pré processamento
             4.3 Dados Treino / Teste (Maior parcela = treino = forma como aprende x menor parcela = teste = validação do aprendizado)
             4.4 Escolha de método (IA/ML)
-            4.5 Classificação x Regressão (Perfil x Previsão)
-            4.6 Supervisionado x Não Supervisionado x Reforço (Dados pré existentes e corretos x Dados em Cluster (Agrupamentos) e sem resposta correta x Precisa do lado Humano observando e incentivando o aprendizado. Seja validando ou ajustando )
+            4.5 Classificação x Regressão x Clusterização x Recomendação (Perfil x Previsão x Perfis similares x Algorítimos ex. Youtube)
+            4.6 Supervisionado/Não Supervisionado x Reforço (Dados pré existentes e corretos x Dados em Cluster (Agrupamentos) e sem resposta correta x Precisa do lado Humano observando e incentivando o aprendizado. Seja validando ou ajustando )
             4.7 Escolha de modelo mais eficiente após os testes
             4.8 Avaliação e Otimização (últimos ajustes sem sacrificar precisão)
         5.Passo Validação (Resultado final após os testes)
